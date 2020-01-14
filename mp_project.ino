@@ -1,9 +1,9 @@
-const int TRIGPIN = 5;
-const int ECHOPIN = 6;
+const int TRIGPIN = 2;
+const int ECHOPIN = 4;
 
-const int RED = 11;
-const int GREEN = 10;
-const int BLUE = 9;
+const int RED = 7;
+const int GREEN = 8;
+const int BLUE = 12;
 
 long DURATION;
 int DISTANCE;
